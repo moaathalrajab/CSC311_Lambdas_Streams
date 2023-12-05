@@ -1,5 +1,4 @@
-package com.example.csc311_lamdas_streams;
-import java.util.Arrays;
+package com.example.csc311_lambdas_streams;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 

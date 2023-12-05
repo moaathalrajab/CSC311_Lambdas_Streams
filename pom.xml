@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>CSC311_Lamdas_Streams</artifactId>
+    <artifactId>CSC311_Lambdas_Streams</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>CSC311_Lamdas_Streams</name>
 
@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.csc311_lamdas_streams/com.example.csc311_lamdas_streams.HelloApplication
+                                com.example.csc311_lamdas_streams/com.example.csc311_lambdas_streams.HelloApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

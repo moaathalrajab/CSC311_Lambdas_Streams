@@ -3,6 +3,6 @@ module com.example.csc311_lamdas_streams {
     requires javafx.fxml;
 
 
-    opens com.example.csc311_lamdas_streams to javafx.fxml;
-    exports com.example.csc311_lamdas_streams;
+    opens com.example.csc311_lambdas_streams to javafx.fxml;
+    exports com.example.csc311_lambdas_streams;
 }

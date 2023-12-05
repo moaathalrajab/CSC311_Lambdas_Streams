@@ -1,8 +1,7 @@
-package com.example.csc311_lamdas_streams;
+package com.example.csc311_lambdas_streams;
 
 
 import java.util.Arrays;
-import java.util.Comparator;
 import java.util.stream.Collectors;
 
 public class ArraysAndStreams2 {

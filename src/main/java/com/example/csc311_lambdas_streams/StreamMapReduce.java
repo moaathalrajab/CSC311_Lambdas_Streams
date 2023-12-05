@@ -1,4 +1,4 @@
-package com.example.csc311_lamdas_streams;
+package com.example.csc311_lambdas_streams;
 import java.util.stream.IntStream;
 import java.util.function.Predicate;
 
